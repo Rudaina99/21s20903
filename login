@@ -5,3 +5,5 @@ function login(username, password) {
     console.log('Login failed');
   }
 }
+
+login('admin', 'admin');
