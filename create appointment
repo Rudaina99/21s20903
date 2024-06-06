@@ -1,0 +1,3 @@
+function scheduleAppointment(patientName, date) {
+  console.log(Appointment scheduled for ${patientName} on ${date});
+}
